@@ -1,0 +1,54 @@
+/* Write your CSS code here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+img {
+  align-self: center;
+}
+h1 {
+  color: #ea580c;
+  font-size: 50px;
+}
+button {
+  background-color: #ea580c;
+  color: white;
+  font-size: 20px;
+  align-self: center;
+  margin-top: 10px;
+  border: 2px solid #ea580c;
+  border-radius: 10px;
+}
+.but1 {
+  width: 100px;
+  height: 40px;
+}
+.but2 {
+  width: 300px;
+  height: 40px;
+}
+label {
+  color: #475569;
+  font-size: 20px;
+}
+p {
+  color: red;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input {
+  height: 30px;
+  width: 350px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 5px 5px 5px 5px #cbd2d9;
+  padding: 20px;
+  height: 300px;
+  width: 400px;
+}
